@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+.container {
+    max-width: 1008px;
+    margin: 0 auto;
+    padding: 20px;
+}
+header{
+    height: 62px;
+    background-color:  #02918c  ;
+    width: 100%;
+}
+
+.content-box{
+    display: flex;
+    justify-content: space-between ;
+    text-align: center;
+}
+.box{
+    text-align: center;
+}
+.box h4{
+    size: 18px;
+    color: #7e8287;
+    font-weight: bold;
+    font-style: arial;
+    
+
+}
+.box p{
+    size: 14px;
+    color: #7e8287;
+    font-style: arial;
+    
+
+}
+.about-me{
+    text-align: center;
+
+    
+}
+.about-me h1{
+    size: 46px;
+    color: #02918c;
+    font-weight: bold;
+    font-style: arial;
+
+}
+.about-me p{
+    size: 16px;
+    color: #7e8287;
+    line-height: 21px;
+    margin-bottom: 74px;
+    font-style: arial;
+
+}
+
+footer{
+    height: 79px;
+    background-color: black;
+    text-align: center;
+}
+footer p{
+    color: #7e8287;
+    size: 12px;
+    padding-top: 45px;
+    font-weight: normal;
+    font-style: arial;
+}
